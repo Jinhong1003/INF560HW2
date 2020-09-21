@@ -1,2 +1,3 @@
 # INF560HW2
 scripts of INF560HW2
+DOI:10.5281/zenodo.4042123
