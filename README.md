@@ -36,23 +36,24 @@ When I want to download matplotlib by pip, I only execute this command line once
 <img width="336" alt="image" src="https://user-images.githubusercontent.com/54864182/97097582-1108de80-162f-11eb-9c12-3e64f667174c.png">
 
 
-6a.
+6a. 
+<1>Clone github project to local machine.
 
-<1>enter the directory of the project.
+<2>enter the directory of the project.
 
-<2>pip install pip virtualenv, download the packeget for creating a new environment
+<3>pip install pip virtualenv, download the packeget for creating a new environment
 
-<3>virtualenv dsci560h4, Create a virtual environment--dsci560H4(based on python3) ,under the directory of project
+<4>virtualenv dsci560h4, Create a virtual environment--dsci560H4(based on python3) ,under the directory of project
 
-<4>source dsci560H4/bin/activate, activate the envronment
+<5>source dsci560H4/bin/activate, activate the envronment
 
-<5>python3 Create_number.py, execute Create_number.py in order to get 1000 random number between 0 and 100, write them into a txt file.
+<6>python3 Create_number.py, execute Create_number.py in order to get 1000 random number between 0 and 100, write them into a txt file.
 
-<6>python3 New_number.py, execute New_number.py in ordr to create 1000 new numbers based on the former 1000 numbers, write them into a txt file.
+<7>python3 New_number.py, execute New_number.py in ordr to create 1000 new numbers based on the former 1000 numbers, write them into a txt file.
 
-<7>python3 Number_visualization.py, show the result of 5 and 6 steps in coordinate system while x axis is the orginal number, y axis is new numbers
+<8>python3 Number_visualization.py, show the result of 5 and 6 steps in coordinate system while x axis is the orginal number, y axis is new numbers
 
-<8>jupyter notebook, execute HW2_task5.ipynb, run the codes in this file step by step.
+<9>jupyter notebook, execute HW2_task5.ipynb, run the codes in this file step by step.
 
-<9>deactivate,deactivate the environment
+<10>deactivate,deactivate the environment
 
