@@ -1,8 +1,7 @@
 # INF560HW2
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jinhong1003/INF560HW2/master)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/Jinhong1003/INF560HW2/master
+
 
 scripts of INF560HW2
 
