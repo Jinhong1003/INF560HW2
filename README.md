@@ -32,6 +32,8 @@ The packages that I manually installed using pip install or conda install comman
 The dependency list I extracted is just a text file that contains the name and the version of the packages which are needed in the execution of the project. It is not the actual package that we will use. When we create a new environment, there are only standard libraries and these packages are not existing in our environment originally.
 
 When I want to download matplotlib by pip, I only execute this command line once, however it download many sub-packages in my environment , so in my requiremens.txt , there are other packages as well.
+<img width="336" alt="image" src="https://user-images.githubusercontent.com/54864182/97097582-1108de80-162f-11eb-9c12-3e64f667174c.png">
+
 
 6a.
 
