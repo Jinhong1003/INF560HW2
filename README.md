@@ -7,4 +7,7 @@ scripts of INF560HW2
 
 DOI:10.5281/zenodo.4048887
 
+#HW4
+1.
+<img width="432" alt="图片 1" src="https://user-images.githubusercontent.com/54864182/97096845-cdaa7200-1626-11eb-9e71-90d2c4bacd7b.png">
 
